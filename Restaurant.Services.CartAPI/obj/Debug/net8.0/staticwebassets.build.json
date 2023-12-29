@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a0JbPZBDZsgsgv1M5c1xLCf4uF0kkdTT99KCWnYhexM=",
+  "Source": "Restaurant.Services.CartAPI",
+  "BasePath": "_content/Restaurant.Services.CartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

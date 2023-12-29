@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Restaurant.Services.AuthAPI",
+    "\\Restaurant.Services.CouponAPI",
+    "\\Restaurant.Web",
+    "\\Restaurant.Web\\Views",
+    "\\Restaurant.Web\\Views\\Auth"
+  ],
+  "PreviewInSolutionExplorer": true
+}
